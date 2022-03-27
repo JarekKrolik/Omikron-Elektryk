@@ -317,8 +317,8 @@ h2 {
 footer {
   background-color: grey;
   padding: 10px 20px;
-  font-size: 22px;
   text-align: center;
+  font-size: 16px;
 }
 
 @media (min-height: 280px) and (orientation: landscape) {
