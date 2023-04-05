@@ -1,7 +1,7 @@
-
+[![My Skills](https://skillicons.dev/icons?i=html,bootstrap,css,javascript)](https://skillicons.dev)
 # Omikron Elektryk
 
-My very first website.
+Official website of OMIKRON CJ Sp.z.o.o
 
 
 
@@ -20,6 +20,5 @@ Here are some related projects
 ![Logo](https://www.omikronelektryk.pl/img/electric-4198293_1920.jpg)
 
 
-## 🛠 Skills
-Javascript, HTML, CSS, SCSS, bootstrap...
+
 
